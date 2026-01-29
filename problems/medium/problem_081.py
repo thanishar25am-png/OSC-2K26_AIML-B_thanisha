@@ -6,8 +6,8 @@ Difficulty: Medium
 
 # Generic logic for Distance Validator
 def run():
-    x = 10
-    y = 0
+    x = 100
+    y = 7
     return x / y
 
-run()
+print(run())
