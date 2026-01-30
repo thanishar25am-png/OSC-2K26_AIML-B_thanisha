@@ -7,7 +7,7 @@ Difficulty: Medium
 # Generic logic for Steps Validator
 def run():
     x = 10
-    y = 0
+    y = 9
     return x / y
 
-run()
+print(run())
